@@ -1,5 +1,8 @@
-  //Encapsulation is the bundling of attributes and methods that operate on the data into a single unit called a class. 
-  //It restricts direct access to some of an object's components, which helps prevent accidental or unauthorized modifications.
+  /*Encapsulation is the bundling of attributes and methods that operate on the data into a single unit 
+  called a class. 
+  
+  It restricts direct access to some of an object's components, which helps prevent accidental or 
+  unauthorized modifications.*/
  
 
 class Circle {

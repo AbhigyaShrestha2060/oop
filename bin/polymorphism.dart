@@ -23,6 +23,6 @@ void main() {
   Animal dog = Dog();
   Animal cat = Cat();
 
-  dog.makeSound(); // Dog barks
-  cat.makeSound(); // Cat meows
+  dog.makeSound(); 
+  cat.makeSound(); 
 }

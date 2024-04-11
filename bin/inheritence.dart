@@ -15,6 +15,6 @@ class Dog extends Animal {
 
 void main() {
   var dog = Dog();
-  dog.eat();  // Animal is eating.
-  dog.bark(); // Dog is barking.
+  dog.eat();  
+  dog.bark(); 
 }
